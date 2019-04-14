@@ -10,13 +10,11 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 150%;
-  color: #333;
+  color: #000000;
   background: #efeee7;
 }
 
-header {
-  background: #d21034;
-}
+
 
 h1 {
   padding: 20px 0;
@@ -25,7 +23,7 @@ h1 {
   font-size: 28px;
   color: #eee;
   text-align: center;
-  background: #333;
+  background: #000000;
 }
 
 h2 {
